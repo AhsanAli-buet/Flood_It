@@ -10,6 +10,6 @@ Solution of the game board is generated using A* Search algorithm and heuristics
 
 # Flood_It Game Board
 
-[!alt text](https://github.com/AhsanAli-buet/Flood_It/blob/main/Screenshots/game_board_1.PNG?raw=true)
-[!alt text](https://github.com/AhsanAli-buet/Flood_It/blob/main/Screenshots/game_board_2.PNG?raw=true)
-[!alt text](https://github.com/AhsanAli-buet/Flood_It/blob/main/Screenshots/game_board_3.PNG?raw=true)
+![alt text](https://github.com/AhsanAli-buet/Flood_It/blob/main/Screenshots/game_board_1.PNG?raw=true)
+![alt text](https://github.com/AhsanAli-buet/Flood_It/blob/main/Screenshots/game_board_2.PNG?raw=true)
+![alt text](https://github.com/AhsanAli-buet/Flood_It/blob/main/Screenshots/game_board_3.PNG?raw=true)
